@@ -1,5 +1,5 @@
 {
-  "name": "calculator",
+  "name": "calculate",
   "version": "1.0.0",
   "description": "",
   "main": "calculator.js",
@@ -10,7 +10,14 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bankkuru/calculator.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bankkuru/calculator/issues"
+  },
+  "homepage": "https://github.com/Bankkuru/calculator#readme"
 }
-//test 
